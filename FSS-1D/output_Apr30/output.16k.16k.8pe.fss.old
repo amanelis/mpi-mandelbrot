@@ -1,0 +1,95 @@
+Number of slaves: 8
+Not using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	1000	1000	1000	1000	1000	1000	1000	1000
+Round 1: 	500	500	500	500	500	500	500	500
+Round 2: 	250	250	250	250	250	250	250	250
+Round 3: 	125	125	125	125	125	125	125	125
+Round 4: 	63	63	63	63	63	63	63	63
+Round 5: 	31	31	31	31	31	31	31	31
+Round 6: 	20	20	20	20	20	20	20	20
+Round 7: 	11	11	11	11	11	11	11	11
+Round 8: 	0	0	0	0	0	0	0	0
+Number of scheduling steps:64
+Number of chunks with same size:8
+
+Slave 1 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 11m 59s 809ms
+Comm time: 59ms
+Compute time: 11m 59s 747ms
+Total Wait and Commn Time: 62ms
+
+Slave 2 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 5m 1s 634ms
+Comm time: 6s 955ms
+Compute time: 4m 54s 676ms
+Total Wait and Commn Time: 6s 958ms
+
+Slave 3 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 4m 34s 729ms
+Comm time: 6s 955ms
+Compute time: 4m 27s 771ms
+Total Wait and Commn Time: 6s 957ms
+
+Slave 4 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 4m 10s 250ms
+Comm time: 6s 949ms
+Compute time: 4m 3s 298ms
+Total Wait and Commn Time: 6s 951ms
+
+Slave 5 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 18m 29s 730ms
+Comm time: 5s 492ms
+Compute time: 18m 24s 235ms
+Total Wait and Commn Time: 5s 495ms
+
+Slave 6 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 6m 44s 926ms
+Comm time: 5s 827ms
+Compute time: 6m 39s 96ms
+Total Wait and Commn Time: 5s 830ms
+
+Slave 7 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 7m 2s 161ms
+Comm time: 6s 322ms
+Compute time: 6m 55s 836ms
+Total Wait and Commn Time: 6s 324ms
+
+Slave 8 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 12m 20s 906ms
+Comm time: 5s 988ms
+Compute time: 12m 14s 916ms
+Total Wait and Commn Time: 5s 990ms
+
+
+Master total time: 18m 24s 509ms
+total communication time: 44s 551ms
+Maximum compute time: 18m 24s 235ms
+Total time from slave: 1h 10m 24s 150ms

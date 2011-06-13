@@ -1,0 +1,32 @@
+
+----Explanation for the chunk calculation in TSS-1D-----
+ 
+The formula give in the Journal Paper for Chunk Calculation is given below:
+
+  C_i = A_i * (F - D * (S_(i-1) + (A_(i-1)-1)/2 ) )
+
+We can rewrite this formula as shown below,
+
+  C_i = A_i * F - A_i * D * S_(i-1) - A_i * D * (A_(i-1)-1)/2
+
+  where, S_(i-1) = S_(i-2) + A_(i-1) 
+
+  C_(i-1) = A_(i-1) * (F - D * (S_(i-2) + (A_(i-1) - 1)/2)
+
+  C_(i-1) = A_(i-1) * F - A_(i-1) * D * (S_(i-2) + (A_(i-1)-1)/2)
+
+  C_(i-1) = A_(i-1) * F - A_(i-1) * D * S_(i-2) + A_(i-1) * D * (A_(i-1) - 1)/2
+
+  D * S_(i-2) = 1/A_(i-1)[C_(i-1) - A_(i-1)*F - A_(i-1)*D*(A_(i-1)-1)/2]
+
+  Multiplying A_i both sides,
+
+  A_i * D * S_(i-2) =A_i/A_(i-1) [C_(i-1) - A_(i-1)*F - A_(i-1)*D*(A_(i-1)-1)/2] 
+  Cancelling A_(i-1) from the right hand side,
+
+  A_i * D * S_(i-2) = A_i [C_(i-1)/A_(i-1) - F - D*(A_(i-1)-1)/2]
+
+  F + A_i *D*S_(i-2) = [(A_i/A_(i-1))*C_(i-1)] - [A_i*D*(A_(i-1)-1)/2] 
+
+ i.e,  C_i = [(A_i/A_(i-1))*C_(i-1)] - [A_i*D*(A_(i-1)-1)/2]
+

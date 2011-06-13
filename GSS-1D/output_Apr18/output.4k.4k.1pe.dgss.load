@@ -1,0 +1,22 @@
+Number of slaves: 1
+Using load
+Threshold is  20
+GSS scheme
+
+The number of scheduling steps: 5
+The number of same chunk scheduling steps: 1
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 4000
+Number of requests: 6
+Total time: 5m 55s 771ms
+Comm time: 189ms
+Compute time: 5m 55s 581ms
+Total Wait and Commn Time: 190ms
+
+
+Master total time: 5m 55s 773ms
+total communication time: 189ms
+Maximum compute time: 5m 55s 581ms
+Total Time From Slave: 5m 55s 771ms

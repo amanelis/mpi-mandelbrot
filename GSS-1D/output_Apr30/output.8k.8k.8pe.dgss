@@ -1,0 +1,85 @@
+Number of slaves: 8
+Using load
+Threshold is  20
+GSS scheme
+
+The number of scheduling steps: 35
+The number of same chunk scheduling steps: 10
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 759
+Number of requests: 2
+Total time: 4m 16s 466ms
+Comm time: 298ms
+Compute time: 4m 16s 168ms
+Total Wait and Commn Time: 298ms
+
+Slave 2 ( power 2 ) report
+
+Computed columns: 1075
+Number of requests: 2
+Total time: 1m 38s 697ms
+Comm time: 300ms
+Compute time: 1m 38s 396ms
+Total Wait and Commn Time: 300ms
+
+Slave 3 ( power 2 ) report
+
+Computed columns: 903
+Number of requests: 2
+Total time: 2m 52s 596ms
+Comm time: 299ms
+Compute time: 2m 52s 295ms
+Total Wait and Commn Time: 300ms
+
+Slave 4 ( power 2 ) report
+
+Computed columns: 2933
+Number of requests: 15
+Total time: 13s 171ms
+Comm time: 312ms
+Compute time: 12s 855ms
+Total Wait and Commn Time: 316ms
+
+Slave 5 ( power 1 ) report
+
+Computed columns: 305
+Number of requests: 2
+Total time: 2m 31s 904ms
+Comm time: 43ms
+Compute time: 2m 31s 860ms
+Total Wait and Commn Time: 43ms
+
+Slave 6 ( power 1 ) report
+
+Computed columns: 279
+Number of requests: 2
+Total time: 33s 629ms
+Comm time: 90ms
+Compute time: 33s 538ms
+Total Wait and Commn Time: 90ms
+
+Slave 7 ( power 1 ) report
+
+Computed columns: 1414
+Number of requests: 16
+Total time: 12s 911ms
+Comm time: 742ms
+Compute time: 12s 164ms
+Total Wait and Commn Time: 747ms
+
+Slave 8 ( power 1 ) report
+
+Computed columns: 332
+Number of requests: 2
+Total time: 3m 10s 440ms
+Comm time: 250ms
+Compute time: 3m 10s 189ms
+Total Wait and Commn Time: 251ms
+
+
+Master total time: 4m 16s 172ms
+total communication time: 2s 338ms
+Maximum compute time: 4m 16s 168ms
+Total Time From Slave: 15m 29s 819ms

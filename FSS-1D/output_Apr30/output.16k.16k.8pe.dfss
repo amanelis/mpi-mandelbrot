@@ -1,0 +1,94 @@
+Number of slaves: 8
+Using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	1334	1334	1334	1334	667	667	667	667
+Round 1: 	667	667	667	667	334	334	334	334
+Round 2: 	333	333	333	333	167	167	167	167
+Round 3: 	166	166	166	166	83	83	83	83
+Round 4: 	83	83	83	83	42	42	42	42
+Round 5: 	42	42	42	42	21	21	21	21
+Round 6: 	40	40	40	40	20	20	20	20
+Round 7: 	4	0	0	0	0	0	0	0
+Number of scheduling steps:57
+Number of chunks with same size:8
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 2669
+Number of requests: 9
+Total time: 4m 50s 829ms
+Comm time: 1s 166ms
+Compute time: 4m 49s 660ms
+Total Wait and Commn Time: 1s 169ms
+
+Slave 2 ( power 2 ) report
+
+Computed columns: 2665
+Number of requests: 8
+Total time: 6m 41s 983ms
+Comm time: 1s 172ms
+Compute time: 6m 40s 808ms
+Total Wait and Commn Time: 1s 174ms
+
+Slave 3 ( power 2 ) report
+
+Computed columns: 2665
+Number of requests: 8
+Total time: 5m 55s 903ms
+Comm time: 1s 171ms
+Compute time: 5m 54s 729ms
+Total Wait and Commn Time: 1s 174ms
+
+Slave 4 ( power 2 ) report
+
+Computed columns: 2665
+Number of requests: 8
+Total time: 4m 49s 849ms
+Comm time: 1s 157ms
+Compute time: 4m 48s 690ms
+Total Wait and Commn Time: 1s 159ms
+
+Slave 5 ( power 1 ) report
+
+Computed columns: 1334
+Number of requests: 8
+Total time: 16m 34s 523ms
+Comm time: 412ms
+Compute time: 16m 34s 108ms
+Total Wait and Commn Time: 415ms
+
+Slave 6 ( power 1 ) report
+
+Computed columns: 1334
+Number of requests: 8
+Total time: 12m 27s 930ms
+Comm time: 504ms
+Compute time: 12m 27s 423ms
+Total Wait and Commn Time: 506ms
+
+Slave 7 ( power 1 ) report
+
+Computed columns: 1334
+Number of requests: 8
+Total time: 14m 20s 818ms
+Comm time: 580ms
+Compute time: 14m 20s 235ms
+Total Wait and Commn Time: 582ms
+
+Slave 8 ( power 1 ) report
+
+Computed columns: 1334
+Number of requests: 8
+Total time: 10m 2s 468ms
+Comm time: 720ms
+Compute time: 10m 1s 745ms
+Total Wait and Commn Time: 722ms
+
+
+Master total time: 16m 34s 524ms
+total communication time: 6s 885ms
+Maximum compute time: 16m 34s 108ms
+Total time from slave: 1h 15m 44s 306ms

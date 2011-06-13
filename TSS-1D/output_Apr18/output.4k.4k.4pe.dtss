@@ -1,0 +1,50 @@
+Number of slaves: 4
+Using load
+Threshold is  20
+Trapezoid  scheme
+
+delta:14
+Number of scheduling steps:12
+Number of same chunk size scheduling steps:0
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 1080
+Number of requests: 3
+Total time: 50s 812ms
+Comm time: 8ms
+Compute time: 50s 803ms
+Total Wait and Commn Time: 9ms
+
+Slave 2 ( power 2 ) report
+
+Computed columns: 2075
+Number of requests: 8
+Total time: 41s 102ms
+Comm time: 9ms
+Compute time: 41s 91ms
+Total Wait and Commn Time: 11ms
+
+Slave 3 ( power 1 ) report
+
+Computed columns: 263
+Number of requests: 2
+Total time: 1m 42s 957ms
+Comm time: 5ms
+Compute time: 1m 42s 952ms
+Total Wait and Commn Time: 5ms
+
+Slave 4 ( power 1 ) report
+
+Computed columns: 582
+Number of requests: 3
+Total time: 1m 22s 997ms
+Comm time: 137ms
+Compute time: 1m 22s 859ms
+Total Wait and Commn Time: 137ms
+
+
+Master total time: 1m 42s 955ms
+total communication time: 160ms
+Maximum compute time: 1m 42s 952ms
+TotalTimeFromSlave: 4m 37s 870ms

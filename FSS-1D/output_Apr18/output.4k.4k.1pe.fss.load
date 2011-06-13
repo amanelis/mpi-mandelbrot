@@ -1,0 +1,32 @@
+Number of slaves: 1
+Not using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	2000
+Round 1: 	1000
+Round 2: 	500
+Round 3: 	250
+Round 4: 	125
+Round 5: 	63
+Round 6: 	31
+Round 7: 	20
+Round 8: 	11
+Number of scheduling steps:9
+Number of chunks with same size:1
+
+Slave 1 ( power 1 ) report
+
+Computed columns: 4000
+Number of requests: 10
+Total time: 5m 55s 349ms
+Comm time: 40ms
+Compute time: 5m 55s 305ms
+Total Wait and Commn Time: 43ms
+
+
+Master total time: 5m 55s 349ms
+total communication time: 40ms
+Maximum compute time: 5m 55s 305ms
+Total time from slave: 5m 55s 349ms

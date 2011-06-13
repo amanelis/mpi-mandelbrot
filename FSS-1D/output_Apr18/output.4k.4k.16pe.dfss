@@ -1,0 +1,163 @@
+Number of slaves: 16
+Using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	167	167	167	167	167	167	167	167	84	84	84	84	84	84	84	84
+Round 1: 	83	83	83	83	83	83	83	83	42	42	42	42	42	42	42	42
+Round 2: 	42	42	42	42	42	42	42	42	21	21	21	21	21	21	21	21
+Round 3: 	40	40	40	40	40	40	40	40	20	20	20	20	20	20	20	20
+Round 4: 	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of scheduling steps:65
+Number of chunks with same size:16
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 340
+Number of requests: 6
+Total time: 10s 866ms
+Comm time: 31ms
+Compute time: 10s 833ms
+Total Wait and Commn Time: 33ms
+
+Slave 2 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 11s 827ms
+Comm time: 30ms
+Compute time: 11s 795ms
+Total Wait and Commn Time: 31ms
+
+Slave 3 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 10s 282ms
+Comm time: 29ms
+Compute time: 10s 252ms
+Total Wait and Commn Time: 30ms
+
+Slave 4 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 7s 133ms
+Comm time: 29ms
+Compute time: 7s 103ms
+Total Wait and Commn Time: 30ms
+
+Slave 5 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 10s 85ms
+Comm time: 29ms
+Compute time: 10s 54ms
+Total Wait and Commn Time: 30ms
+
+Slave 6 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 9s 568ms
+Comm time: 27ms
+Compute time: 9s 539ms
+Total Wait and Commn Time: 28ms
+
+Slave 7 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 7s 978ms
+Comm time: 26ms
+Compute time: 7s 950ms
+Total Wait and Commn Time: 28ms
+
+Slave 8 ( power 2 ) report
+
+Computed columns: 332
+Number of requests: 5
+Total time: 18s 354ms
+Comm time: 21ms
+Compute time: 18s 332ms
+Total Wait and Commn Time: 22ms
+
+Slave 9 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 22s 96ms
+Comm time: 60ms
+Compute time: 22s 35ms
+Total Wait and Commn Time: 61ms
+
+Slave 10 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 21s 678ms
+Comm time: 56ms
+Compute time: 21s 621ms
+Total Wait and Commn Time: 57ms
+
+Slave 11 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 11s 609ms
+Comm time: 34ms
+Compute time: 11s 574ms
+Total Wait and Commn Time: 35ms
+
+Slave 12 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 23s 106ms
+Comm time: 179ms
+Compute time: 22s 925ms
+Total Wait and Commn Time: 180ms
+
+Slave 13 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 27s 142ms
+Comm time: 171ms
+Compute time: 26s 969ms
+Total Wait and Commn Time: 172ms
+
+Slave 14 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 30s 798ms
+Comm time: 131ms
+Compute time: 30s 665ms
+Total Wait and Commn Time: 132ms
+
+Slave 15 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 25s 416ms
+Comm time: 18ms
+Compute time: 25s 397ms
+Total Wait and Commn Time: 19ms
+
+Slave 16 ( power 1 ) report
+
+Computed columns: 167
+Number of requests: 5
+Total time: 11s 259ms
+Comm time: 41ms
+Compute time: 11s 217ms
+Total Wait and Commn Time: 42ms
+
+
+Master total time: 30s 784ms
+total communication time: 919ms
+Maximum compute time: 30s 665ms
+Total time from slave: 4m 19s 205ms

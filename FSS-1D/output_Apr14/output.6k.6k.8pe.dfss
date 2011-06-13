@@ -1,0 +1,84 @@
+Number of slaves: 8
+Using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	500	500	500	500	250	250	250	250
+Round 1: 	250	250	250	250	125	125	125	125
+Round 2: 	125	125	125	125	63	63	63	63
+Round 3: 	63	63	63	63	32	32	32	32
+Round 4: 	40	40	40	40	20	20	20	20
+Round 5: 	21	21	21	21	10	10	10	10
+Round 6: 	4	0	0	0	0	0	0	0
+Number of scheduling steps:49
+Number of chunks with same size:8
+
+Slave 1 ( power 2 ) report
+
+Computed columns: 1003
+Number of requests: 8
+Total time: 58s 660ms
+Comm time: 342ms
+Compute time: 56s 84ms
+
+Slave 2 ( power 2 ) report
+
+Computed columns: 999
+Number of requests: 7
+Total time: 52s 352ms
+Comm time: 264ms
+Compute time: 49s 797ms
+
+Slave 3 ( power 2 ) report
+
+Computed columns: 999
+Number of requests: 7
+Total time: 43s 312ms
+Comm time: 264ms
+Compute time: 40s 735ms
+
+Slave 4 ( power 2 ) report
+
+Computed columns: 999
+Number of requests: 7
+Total time: 43s 247ms
+Comm time: 263ms
+Compute time: 40s 396ms
+
+Slave 5 ( power 1 ) report
+
+Computed columns: 500
+Number of requests: 7
+Total time: 1m 24s 607ms
+Comm time: 189ms
+Compute time: 1m 22s 990ms
+
+Slave 6 ( power 1 ) report
+
+Computed columns: 500
+Number of requests: 7
+Total time: 1m 44s 934ms
+Comm time: 191ms
+Compute time: 1m 43s 559ms
+
+Slave 7 ( power 1 ) report
+
+Computed columns: 500
+Number of requests: 7
+Total time: 1m 48s 246ms
+Comm time: 192ms
+Compute time: 1m 46s 823ms
+
+Slave 8 ( power 1 ) report
+
+Computed columns: 500
+Number of requests: 7
+Total time: 2m 19s 255ms
+Comm time: 92ms
+Compute time: 2m 18s 80ms
+
+
+Master total time: 2m 19s 254ms
+total communication time: 1s 802ms
+Maximum compute time: 2m 18s 80ms

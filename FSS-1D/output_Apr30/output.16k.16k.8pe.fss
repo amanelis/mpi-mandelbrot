@@ -1,0 +1,95 @@
+Number of slaves: 8
+Not using load
+Threshold is  20
+Factorial scheme
+
+Rounds table : 
+Round 0: 	1000	1000	1000	1000	1000	1000	1000	1000
+Round 1: 	500	500	500	500	500	500	500	500
+Round 2: 	250	250	250	250	250	250	250	250
+Round 3: 	125	125	125	125	125	125	125	125
+Round 4: 	63	63	63	63	63	63	63	63
+Round 5: 	31	31	31	31	31	31	31	31
+Round 6: 	20	20	20	20	20	20	20	20
+Round 7: 	11	11	11	11	11	11	11	11
+Round 8: 	0	0	0	0	0	0	0	0
+Number of scheduling steps:64
+Number of chunks with same size:8
+
+Slave 1 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 12m 22s 759ms
+Comm time: 31ms
+Compute time: 12m 22s 724ms
+Total Wait and Commn Time: 34ms
+
+Slave 2 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 5m 11s 683ms
+Comm time: 6s 806ms
+Compute time: 5m 4s 874ms
+Total Wait and Commn Time: 6s 808ms
+
+Slave 3 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 4m 43s 780ms
+Comm time: 6s 802ms
+Compute time: 4m 36s 975ms
+Total Wait and Commn Time: 6s 805ms
+
+Slave 4 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 4m 18s 417ms
+Comm time: 6s 800ms
+Compute time: 4m 11s 614ms
+Total Wait and Commn Time: 6s 802ms
+
+Slave 5 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 19m 9s 34ms
+Comm time: 5s 218ms
+Compute time: 19m 3s 814ms
+Total Wait and Commn Time: 5s 220ms
+
+Slave 6 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 6m 58s 336ms
+Comm time: 5s 578ms
+Compute time: 6m 52s 755ms
+Total Wait and Commn Time: 5s 581ms
+
+Slave 7 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 7m 16s 129ms
+Comm time: 6s 27ms
+Compute time: 7m 9s 939ms
+Total Wait and Commn Time: 6s 190ms
+
+Slave 8 ( power 1 ) report
+
+Computed columns: 2000
+Number of requests: 9
+Total time: 12m 45s 999ms
+Comm time: 5s 155ms
+Compute time: 12m 40s 841ms
+Total Wait and Commn Time: 5s 157ms
+
+
+Master total time: 19m 4s 5ms
+total communication time: 42s 421ms
+Maximum compute time: 19m 3s 814ms
+Total time from slave: 1h 12m 46s 140ms
